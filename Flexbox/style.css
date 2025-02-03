@@ -8,13 +8,20 @@
 
 .content{
     border: 1px solid blue;
-    margin: 5px 20px;
+    margin: 5px 15px;
     padding: 0px 5px;
+    width: 30%;
 }
 .container_2{
     display: flex;
     justify-content: center;
     align-items: center;
     /* height: 100vh; */
+}
+.container_3{
+    display: flex;
+    /* flex-wrap: wrap; */
+    flex-wrap: wrap-reverse;
+    justify-content: center;
 }
 

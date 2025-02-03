@@ -6,9 +6,15 @@
     flex-direction: row-reverse;
 }
 
-
 .content{
     border: 1px solid blue;
     margin: 5px 20px;
     padding: 0px 5px;
 }
+.container_2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+}
+

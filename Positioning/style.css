@@ -7,11 +7,19 @@
     margin: 5px 15px;
     padding: 0px 5px;
 }
-
-.display_static{
+.content_2{
     border: 1.5px solid green;
     background-color: aqua;
+
+}
+.position_static{
     position: static;
     top: 12px;
     right: 60px;
+}
+
+.position_relative{
+    position: relative;
+    top: 30px;
+    left: 45px;
 }

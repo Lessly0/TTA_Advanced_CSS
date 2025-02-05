@@ -23,8 +23,23 @@
     top: 30px;
     left: 45px;
 }
-.position_absolute{
-    /* position: absolute;*/
-    /* top: 50px;*/
-    /* bottom: 30px; */
+/* .position_absolute{
+     position: absolute;
+     top: 50px;
+     bottom: 30px; 
+}*/
+
+.position_sticky{
+    position: sticky;
+    top: 0;
 }
+/* .test{
+    width: 10%;
+} */
+
+/* .position_fixed{
+    position: fixed;
+    top: 20px;
+    right: 40px;
+
+}*/
